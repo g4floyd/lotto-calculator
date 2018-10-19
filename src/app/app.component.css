@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto+Slab:700');
+
+h1 {
+  font-family: 'Roboto Slab', serif;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.titlequestion {
+  font-size: 3.0rem;
+}
+
+.verticallyCentered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
